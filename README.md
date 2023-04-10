@@ -15,7 +15,11 @@ A simple game utilising :
 - arrays as the music prompt
 - Math.random() to choose one of the arrays
 
+## 💻 Coming soon features
 
+- improved UI design 
+- larger array of prompts
+- scoring system 
 
 ## 🚀 About Me
 
